@@ -68,7 +68,7 @@ education:
 experience:
   - role: Director of Operations
     org: AIDE Canada
-    company_logo:
+    #company_logo:
     location: Richmond, BC
     start: 2025-07-14
     end: 2026-03-11
@@ -76,7 +76,7 @@ experience:
         * Establish trust, stabilize day-to-day operations, identify operational gaps, and position AIDE with a clear path for organizational longevity and success by strengthening operational resiliency.
   - role: Senior Process Consultant
     org: Ausenco
-    company_logo:
+    #company_logo:
     location: Vancouver, BC
     start: 2024-07-29
     end: 2025-07-14
@@ -84,7 +84,7 @@ experience:
         * Managed the artificial intelligence co-op program, including developing curricula, interviewing candidates, securing team placements and mentoring participants as internal program coordinator; coached Athena Pathways mentees, recruited other mentors.
   - role: Sessional Instructor
     org: The University of British Columbia
-    company_logo: ubc-crest-white
+    #company_logo: ubc-crest-white
     location: Vancouver, BC
     start: 2023-09-05
     end: 2023-12-20
@@ -101,7 +101,7 @@ experience:
         * How to interpret model results to infer their design implications and effective communication of such implications to a managerial audience.
   - role: Simulation Manager
     org: Stream Systems
-    company_logo: Stream-Logo-Transparent_Master
+    #company_logo: Stream-Logo-Transparent_Master
     location: Calgary, AB
     start: 2023-08-21
     end: 2024-03-18
@@ -111,7 +111,7 @@ experience:
       final product delivery."
   - role: Lead, Technology & Innovation
     org: Teck Resources Ltd.
-    company_logo: teck_logo_RGB_REVERSE
+    #company_logo: teck_logo_RGB_REVERSE
     location: Vancouver, BC
     start: 2018-12-01
     end: 2023-07-21
@@ -122,7 +122,7 @@ experience:
         * Extended systems expert support for advanced analytics, machine learning modeling and optimization for the Highland Valley Copper Mill Optimization Analytics project.
   - role: Project Metallurgist
     org: Teck Alaska Inc.
-    company_logo: teck_logo_RGB_REVERSE
+    #company_logo: teck_logo_RGB_REVERSE
     location: Anchorage, AK
     start: 2016-03-01
     end: 2018-11-30
@@ -133,8 +133,8 @@ experience:
         * Optimized maintenance and reduced operational costs by compiling and analyzing data for M5000 Isamill wear parts.
         * Selected for additional leadership training through Teck’s “Leading for Excellence” program to develop coaching skills.
   - role: Operating Engineer (EIT)
-    org Teck Alaska Inc
-    company_logo: teck_logo_RGB_REVERSE
+    org: Teck Alaska Inc
+    #company_logo: teck_logo_RGB_REVERSE
     location: Anchorage, AK
     start: 2015-01-01
     end: 2016-02-29
@@ -143,7 +143,7 @@ experience:
         * Maximized water discharge under tight seasonal constraints through collaboration with Mill Operations while adhering to strict regulatory compliance requirements.
   - role: Metallurgical Engineer, EIT
     org: Teck Resources Ltd.
-    company_logo: teck_logo_RGB_REVERSE
+    #company_logo: teck_logo_RGB_REVERSE
     location: Logan Lake, BC
     start: 2014-01-01
     end: 2014-12-31
@@ -153,7 +153,7 @@ experience:
         * Coordinated with operating and maintenance groups to achieve 80% Isamill utilization within six months of commissioning and three months ahead of schedule.
   - role: Operating Engineer (EIT)
     org: Teck Alaska Inc.
-    company_logo: teck_logo_RGB_REVERSE
+    #company_logo: teck_logo_RGB_REVERSE
     location: Anchorage, AK
     start: 2012-09-01
     end: 2013-12-31
