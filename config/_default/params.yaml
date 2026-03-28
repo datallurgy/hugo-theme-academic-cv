@@ -34,7 +34,7 @@ hugoblox:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
+    pack: "matcha"
     # Optional: Override theme pack colors
     colors:
       primary: ""                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
@@ -87,7 +87,7 @@ hugoblox:
     # Stick to top on scroll
     sticky: true
     # Menu alignment
-    align: left                       # left | center | right
+    align: center                      # left | center | right
     # Feature toggles
     search: true
     theme_toggle: true
@@ -243,7 +243,7 @@ hugoblox:
   locale:
     date_format: "Jan 2, 2006"          # Go time format
     time_format: "3:04 PM"
-    address_format: en-ca
+    address_format: en-us
 
   # ────────────────────────────────────────────────────────────────────────────
   # SECURITY
