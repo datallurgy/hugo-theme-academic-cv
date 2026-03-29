@@ -13,7 +13,12 @@ postnominals:
   #- MIEEE
 status:
   icon: "☕️"
-role: Mining Generalist ⛏️ | AI Strategist & Evangelist 💻 | Neurodivergent Unicorn 🦄
+role: |
+  Mining Generalist ⛏️
+
+  AI Strategist & Evangelist 💻
+  
+  Neurodivergent Unicorn 🦄
 bio: |
   Allyson is a highly motivated mining and mineral processing engineer with 15 years of experience. Her background is primarily in comminution and flotation optimization utilizing advanced process controls and expert systems.
 
@@ -56,120 +61,119 @@ education:
   #    icon: hero/arrow-down-tray
   - degree: MS Data Science
     institution: The University of British Columbia
-    start: 2021-09
-    end: 2022-05
+    start: 2022 #set up this way to show grad year only.
+    end: 
   - degree: BS Metallurgical Engineering
     institution: Missouri University of Science & Technology
-    start: 2006-09
-    end: 2011-05
+    start: 2011 #set up this way to show grad year only.
+    end:
 
 experience:
-  - role: Director of Operations
-    org: AIDE Canada
+  - role: Senior AI Research Scientist
+    org: Meta AI
+    start: 2020-01-01
+    summary: |
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+    button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
+  #- role: Director of Operations
+  #  org: AIDE Canada
+  #  #company_logo:
+  #  #location: Richmond, BC
+  #  start: 2025-07-14
+  #  end: 2026-03-11
+  #  summary: >-2
+  #      * Establish trust, stabilize day-to-day operations, identify operational gaps, and position AIDE with a clear path for organizational longevity and success by strengthening operational resiliency.
+  #- role: Senior Process Consultant
+  #  org: Ausenco
     #company_logo:
-    location: Richmond, BC
-    start: 2025-07-14
-    end: 2026-03-11
-    summary: >-2
-        * Establish trust, stabilize day-to-day operations, identify operational gaps, and position AIDE with a clear path for organizational longevity and success by strengthening operational resiliency.
-  - role: Senior Process Consultant
-    org: Ausenco
-    #company_logo:
-    location: Vancouver, BC
-    start: 2024-07-29
-    end: 2025-07-14
-    summary: >-2
-        * Managed the artificial intelligence co-op program, including developing curricula, interviewing candidates, securing team placements and mentoring participants as internal program coordinator; coached Athena Pathways mentees, recruited other mentors.
-  - role: Sessional Instructor
-    org: The University of British Columbia
+    #location: Vancouver, BC
+  #  start: 2024-07-29
+  #  end: 2025-07-14
+  #  summary: >-2
+  #      * Managed the artificial intelligence co-op program, including developing curricula, interviewing candidates, securing team placements and mentoring participants as internal program coordinator; coached Athena Pathways mentees, recruited other mentors.
+  #- role: Sessional Instructor
+  #  org: The University of British Columbia
     #company_logo: ubc-crest-white
-    location: Vancouver, BC
-    start: 2023-09-05
-    end: 2023-12-20
-    summary: >-2
-        MINE 350: Modeling and Simulation (3 credits).
-        
-        This course introduces several modeling and simulation techniques used to design or modify mining and mineral processing systems. Students will obtain hand-on experience with the simulation program AnyLogic.
-        
-        The main learning outcome is an understanding of the principles and limitations of available analytical and discrete methods that are useful in engineering practice. Other specific learning outcomes are listed below:
-        * How to use common probability models to characterize and model random behavior and uncertainty in mineral resources systems or industrial systems in general. 
-        * How to apply queuing models to the design of haulage fleets and other material handling systems.
-        * The ability to develop continuous models of industrial processes.
-        * The ability to develop discrete event and discrete rate models of industrial systems.
-        * How to interpret model results to infer their design implications and effective communication of such implications to a managerial audience.
-  - role: Simulation Manager
-    org: Stream Systems
+    #location: Vancouver, BC
+  #  start: 2023-09-05
+  #  end: 2023-12-20
+  #  summary: >-2
+  #      MINE 350: Modeling and Simulation (3 credits).
+  #      
+  #      This course introduces several modeling and simulation techniques used to design or modify mining and mineral processing systems. Students will obtain hand-on experience with the simulation program AnyLogic.
+  #      
+  #      The main learning outcome is an understanding of the principles and limitations of available analytical and discrete methods that are useful in engineering practice. Other specific learning outcomes are listed below:
+  #      * How to use common probability models to characterize and model random behavior and uncertainty in mineral resources systems or industrial systems in general. 
+  #      * How to apply queuing models to the design of haulage fleets and other material handling systems.
+  #      * The ability to develop continuous models of industrial processes.
+  #      * The ability to develop discrete event and discrete rate models of industrial systems.
+  #      * How to interpret model results to infer their design implications and effective communication of such implications to a managerial audience.
+  #- role: Simulation Manager
+  #  org: Stream Systems
     #company_logo: Stream-Logo-Transparent_Master
-    location: Calgary, AB
-    start: 2023-08-21
-    end: 2024-03-18
-    summary: "  The primary tenants of this role are solving business problems
-      by understanding the processes behind the data and developing agent-based
-      simulation models and engines from research/proof-of-concept through to
-      final product delivery."
-  - role: Lead, Technology & Innovation
-    org: Teck Resources Ltd.
+    #location: Calgary, AB
+  #  start: 2023-08-21
+  #  end: 2024-03-18
+  #  summary: "  The primary tenants of this role are solving business problems
+  #    by understanding the processes behind the data and developing agent-based
+  #    simulation models and engines from research/proof-of-concept through to
+  #    final product delivery."
+  #- role: Lead, Technology & Innovation
+  #  org: Teck Resources Ltd.
     #company_logo: teck_logo_RGB_REVERSE
-    location: Vancouver, BC
-    start: 2018-12-01
-    end: 2023-07-21
-    summary: >-2
-        * Managed the artificial intelligence co-op program, including developing curricula, interviewing candidates, securing team placements and mentoring participants as internal program coordinator; coached Athena Pathways mentees, recruited other mentors.
-        * Developed a material movement simulation for deep reinforcement learning to optimize a long-range technology deployment strategy with multiple competing objectives.
-        * Provided change management and processing systems expert support for advanced analytics, machine learning modeling and optimization for the Red Dog Operations Mill Optimization project.
-        * Extended systems expert support for advanced analytics, machine learning modeling and optimization for the Highland Valley Copper Mill Optimization Analytics project.
-  - role: Project Metallurgist
-    org: Teck Alaska Inc.
+    #location: Vancouver, BC
+  #  start: 2018-12-01
+  #  end: 2023-07-21
+  #  summary: >-2
+  #      * Managed the artificial intelligence co-op program, including developing curricula, interviewing candidates, securing team placements and mentoring participants as internal program coordinator; coached Athena Pathways mentees, recruited other mentors.
+  #      * Developed a material movement simulation for deep reinforcement learning to optimize a long-range technology deployment strategy with multiple competing objectives.
+  #      * Provided change management and processing systems expert support for advanced analytics, machine learning modeling and optimization for the Red Dog Operations Mill Optimization project.
+  #      * Extended systems expert support for advanced analytics, machine learning modeling and optimization for the Highland Valley Copper Mill Optimization Analytics project.
+  #- role: Project Metallurgist
+  #  org: Teck Alaska Inc.
     #company_logo: teck_logo_RGB_REVERSE
-    location: Anchorage, AK
-    start: 2016-03-01
-    end: 2018-11-30
-    summary: >-2
-        * Created SAG circuit advanced process control logic based on old logic from OCS 9.1 for the new OCS-4D application, including programming, defining dynamic circuit constraints for bottleneck detection, and active evaluation of control performance.
-        * Commissioned a $500K VisioFroth system, enabling real time optimization of the zinc rougher circuit.
-        * Directed $500K of major modifications to the copper sulfate reagent dosing system, resulting in decommissioning 50% of the active copper sulfate reagent dosing tanks and removal of an unsafe operating condition.
-        * Optimized maintenance and reduced operational costs by compiling and analyzing data for M5000 Isamill wear parts.
-        * Selected for additional leadership training through Teck’s “Leading for Excellence” program to develop coaching skills.
-  - role: Operating Engineer (EIT)
-    org: Teck Alaska Inc
+    #location: Anchorage, AK
+  #  start: 2016-03-01
+  #  end: 2018-11-30
+  #  summary: >-2
+  #      * Created SAG circuit advanced process control logic based on old logic from OCS 9.1 for the new OCS-4D application, including programming, defining dynamic circuit constraints for bottleneck detection, and active evaluation of control performance.
+  #      * Commissioned a $500K VisioFroth system, enabling real time optimization of the zinc rougher circuit.
+  #      * Directed $500K of major modifications to the copper sulfate reagent dosing system, resulting in decommissioning 50% of the active copper sulfate reagent dosing tanks and removal of an unsafe operating condition.
+  #      * Optimized maintenance and reduced operational costs by compiling and analyzing data for M5000 Isamill wear parts.
+  #      * Selected for additional leadership training through Teck’s “Leading for Excellence” program to develop coaching skills.
+  #- role: Operating Engineer (EIT)
+  #  org: Teck Alaska Inc
     #company_logo: teck_logo_RGB_REVERSE
-    location: Anchorage, AK
-    start: 2015-01-01
-    end: 2016-02-29
-    summary: >-2
-        * Trained and mentored two engineers transitioning into the Operating Engineer role to allow me to shift into a new position for technical development.
-        * Maximized water discharge under tight seasonal constraints through collaboration with Mill Operations while adhering to strict regulatory compliance requirements.
-  - role: Metallurgical Engineer, EIT
-    org: Teck Resources Ltd.
+    #location: Anchorage, AK
+  #  start: 2015-01-01
+  #  end: 2016-02-29
+  #  summary: >-2
+  #      * Trained and mentored two engineers transitioning into the Operating Engineer role to allow me to shift into a new position for technical development.
+  #      * Maximized water discharge under tight seasonal constraints through collaboration with Mill Operations while adhering to strict regulatory compliance requirements.
+  #- role: Metallurgical Engineer, EIT
+  #  org: Teck Resources Ltd.
     #company_logo: teck_logo_RGB_REVERSE
-    location: Logan Lake, BC
-    start: 2014-01-01
-    end: 2014-12-31
-    summary: >-2
-        * Led a team to commission an M1000 Isamill regrind circuit for a new copper-molybdenum bulk flotation plant by communicating effectively with contractor, technical, operating and maintenance groups.
-        * Optimized & debottlenecked the high-grade cleaning and recleaner circuits with minimal process changes by utilizing existing equipment.
-        * Coordinated with operating and maintenance groups to achieve 80% Isamill utilization within six months of commissioning and three months ahead of schedule.
-  - role: Operating Engineer (EIT)
-    org: Teck Alaska Inc.
+    #location: Logan Lake, BC
+  #  start: 2014-01-01
+  #  end: 2014-12-31
+  #  summary: >-2
+  #      * Led a team to commission an M1000 Isamill regrind circuit for a new copper-molybdenum bulk flotation plant by communicating effectively with contractor, technical, operating and maintenance groups.
+  #      * Optimized & debottlenecked the high-grade cleaning and recleaner circuits with minimal process changes by utilizing existing equipment.
+  #      * Coordinated with operating and maintenance groups to achieve 80% Isamill utilization within six months of commissioning and three months ahead of schedule.
+  #- role: Operating Engineer (EIT)
+  #  org: Teck Alaska Inc.
     #company_logo: teck_logo_RGB_REVERSE
-    location: Anchorage, AK
-    start: 2012-09-01
-    end: 2013-12-31
-    summary: >-2
-        * Optimized daily metallurgical performance by setting effective targets, evaluating changing process conditions and collaborative effort with the mill operations crews.
-        * Communicated efficiently with technical, operating and maintenance groups to minimize resource losses.
-        * Coordinated staggered column conversions to Eriez Cav-Tubes from Microcel static mixers as part of a change management strategy to mitigate mass failure risk at the end of the part wear life.
-        * Designed and completed a testing campaign to determine lead column performance pre- and post-installation of a new wash pan design that improved flotation column performance by decreasing gangue entrainment.
-  
-  #- role: Senior AI Research Scientist
-  #  org: Meta AI
-  #  start: 2020-01-01
-  #  summary: |
-  #    Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-  #  button:
-  #    text: View portfolio
-  #    url: /
-  #    icon: hero/arrow-down-tray
+    #location: Anchorage, AK
+  #  start: 2012-09-01
+  #  end: 2013-12-31
+  #  summary: >-2
+  #      * Optimized daily metallurgical performance by setting effective targets, evaluating changing process conditions and collaborative effort with the mill operations crews.
+  #      * Communicated efficiently with technical, operating and maintenance groups to minimize resource losses.
+  #      * Coordinated staggered column conversions to Eriez Cav-Tubes from Microcel static mixers as part of a change management strategy to mitigate mass failure risk at the end of the part wear life.
+  #      * Designed and completed a testing campaign to determine lead column performance pre- and post-installation of a new wash pan design that improved flotation column performance by decreasing gangue entrainment.
 
 skills:
   - name: Technical Skills
