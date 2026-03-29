@@ -13,9 +13,9 @@ postnominals:
   #- MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Mining Generalist ⛏️ | AI Strategist & Evangelist 💻 | Neurodivergent Unicorn 🦄
 bio: |
-  Allyson is a highly motivated mining and mineral processing engineer with 13 years of experience with a background primarily in comminution and flotation optimization utilizing advanced process controls and expert systems.
+  Allyson is a highly motivated mining and mineral processing engineer with 15 years of experience. Her background is primarily in comminution and flotation optimization utilizing advanced process controls and expert systems.
 
   She completed a Masters of Data Science from the University of British Columbia to hone and utilize her data science skills and subject matter expertise to transform the mining industry.
 
@@ -29,8 +29,6 @@ links:
   - icon: at-symbol
     url: mailto:hello@datallurgy.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
     url: https://github.com/datallurgy
   - icon: brands/linkedin
@@ -58,12 +56,12 @@ education:
   #    icon: hero/arrow-down-tray
   - degree: MS Data Science
     institution: The University of British Columbia
-    start: 2021-09-01
-    end: 2022-05-31
+    start: 2021-09
+    end: 2022-05
   - degree: BS Metallurgical Engineering
     institution: Missouri University of Science & Technology
-    start: 2006-09-01
-    end: 2011-05-11
+    start: 2006-09
+    end: 2011-05
 
 experience:
   - role: Director of Operations
