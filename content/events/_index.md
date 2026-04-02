@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Talks & Panels
 cms_exclude: true
 #url: talk
 

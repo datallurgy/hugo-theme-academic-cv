@@ -23,7 +23,6 @@ sections:
         interests: ''
         about: ''
         education: ''
-        experience: ''
         
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
@@ -39,6 +38,12 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  
+  - block: resume-experience
+    id: experience
+    content:
+      username: me
+
   #- block: markdown
   #  content:
   #    title: '📚 My Research'
@@ -51,6 +56,18 @@ sections:
   #      Please reach out to collaborate 😃
   #  design:
   #    columns: '1'
+  
+  - block: collection
+    id: talks
+    content:
+      title: Talks & Panels
+      filters:
+        folders:
+          - events
+    design:
+      view: article-grid
+      columns: 2
+
   #- block: collection
   #  id: papers
   #  content:
@@ -61,26 +78,21 @@ sections:
   #      featured_only: true
   #  design:
   #    view: article-grid
-  #    columns: 2
-  #- block: collection
-  #  content:
-  #    title: Recent Publications
-  #    text: ''
-  #    filters:
-  #      folders:
-  #        - publications
-  #      exclude_featured: false
-  #  design:
-  #    view: citation
+  #    columns: 1
+  
   - block: collection
-    id: talks
+    id: publications
     content:
-      title: Talks & Panels
+      title: Featured Publications
+      text: ''
       filters:
         folders:
-          - events
+          - publications
+        featured_only: true
+        exclude_featured: false
     design:
-      view: card
+      view: citation
+
   #- block: collection
   #  id: news
   #  content:
@@ -110,6 +122,7 @@ sections:
   #    # Reduce spacing
   #    spacing:
   #      padding: [0, 0, 0, 0]
+
   #- block: cta-card
   #  demo: true # Only display this section in the HugoBlox Kit demo site
   #  content:
