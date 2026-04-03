@@ -2,6 +2,8 @@
 title: "Create Beautiful Presentations with Markdown"
 date: '2017-01-01T00:00:00Z'
 
+draft: true
+
 event_name: HugoBlox Showcase
 event_url: https://hugoblox.com
 
