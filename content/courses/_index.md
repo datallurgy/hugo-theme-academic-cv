@@ -3,8 +3,6 @@ title: Courses
 summary: My courses
 type: landing
 
-cms_exclude: true
-
 cascade:
   - target:
       path: '{/courses/*/**}'
