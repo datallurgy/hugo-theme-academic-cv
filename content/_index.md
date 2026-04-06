@@ -66,7 +66,7 @@ sections:
           - events
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 
   #- block: collection
   #  id: papers
@@ -89,7 +89,6 @@ sections:
         folders:
           - publications
         featured_only: true
-        exclude_featured: false
     design:
       view: citation
 
@@ -118,7 +117,8 @@ sections:
   #    order: desc
   #  design:
   #    # Choose a layout view
-  #    view: card
+  #    view: article-grid
+  #    columns: 2
   #    # Reduce spacing
   #    spacing:
   #      padding: [0, 0, 0, 0]

@@ -60,7 +60,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "default"
+    pack: "geometric" # modern | academic | editorial | geometric | humanist | developer | system
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT

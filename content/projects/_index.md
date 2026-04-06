@@ -12,10 +12,11 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I've worked on a variety of projects, but I don't necessarily blog on all of them. So this portfolio aims to showcase skills I've learned and my capabilities. 
       filters:
         folders:
           - projects
+      count: 0  
     design:
       view: article-grid
       fill_image: false
