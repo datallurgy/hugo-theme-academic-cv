@@ -10,19 +10,19 @@ type: landing
 #    params:
 #      show_breadcrumb: true
 
-sections:
-  - block: collection
-    id: courses
-    content:
-      title: Courses
-      filters:
-        tag: Course
-        kinds:
-          - section
-    design:
-      view: card
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
+#sections:
+  #- block: collection
+  #  id: courses
+  #  content:
+  #    title: Courses
+  #    filters:
+  #      tag: Course
+  #      kinds:
+  #        - section
+  #  design:
+  #    view: card
+  #    show_read_time: false
+  #    show_date: false
+  #    show_read_more: false
+  #    columns: 1
 ---
