@@ -3,12 +3,12 @@ title: Courses
 summary: My courses
 type: landing
 
-cascade:
-  - target:
-      path: '{/courses/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
+#cascade:
+#  - target:
+#      path: '{/courses/*/**}'
+#    type: docs
+#    params:
+#      show_breadcrumb: true
 
 sections:
   - block: collection
@@ -20,7 +20,7 @@ sections:
         kinds:
           - section
     design:
-      view: article-grid
+      view: card
       show_read_time: false
       show_date: false
       show_read_more: false
