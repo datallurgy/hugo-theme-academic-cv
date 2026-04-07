@@ -56,6 +56,20 @@ sections:
   #      Please reach out to collaborate 😃
   #  design:
   #    columns: '1'
+
+  - block: collection
+    id: projects
+    content:
+      title: Highlighted Projects
+      count: 3
+      filters:
+        folders:
+          - projects
+        featured_only: true
+      order: desc
+    design:
+      view: article-grid
+      columns: 3
   
   - block: collection
     id: talks

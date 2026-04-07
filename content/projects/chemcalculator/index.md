@@ -3,6 +3,8 @@ title: chemcalculator Package
 subtitle: Class project for DSCI 524 (Collaborative Software Development)
 date: 2023-10-26
 
+featured: true
+
 image:
   filename: featured.png
   caption: ""
