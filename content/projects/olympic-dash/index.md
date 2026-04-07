@@ -3,6 +3,8 @@ title: Olympics Dashboard
 subtitle: Class project for DSCI 532 (Visualization II)
 date: 2023-10-26
 
+featured: true
+
 image:
   filename: featured.gif
   caption: ""
