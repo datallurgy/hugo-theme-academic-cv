@@ -33,6 +33,9 @@ featured: false
 
 # Draft mode
 draft: false
+
+content_meta:
+  trending: true
 ---
 I have included some of my commonly used resources below. Enjoy and happy learning!
 
