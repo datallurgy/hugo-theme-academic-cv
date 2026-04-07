@@ -20,6 +20,9 @@ math: false
 image:
   filename: './img/foobar_hero.jpeg'
   focal_point: Smart
+
+content_meta:
+  trending: true
 ---
 ## Challenge
 Level 1 challenge was: (this).

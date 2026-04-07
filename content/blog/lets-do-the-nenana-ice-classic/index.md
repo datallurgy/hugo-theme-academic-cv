@@ -24,6 +24,9 @@ image:
   filename: ./img/tripod.jpeg
   caption: 'The tripod on the Tanana River.'
   focal_point: Smart
+
+content_meta:
+  trending: true
 ---
 ## Why now?
 Gambling in Alaska is strictly controlled outside of bingo and pulltabs, so the Nenana Ice Classic is one of the few sanctioned gambling outlets you can legally participate in for the state. I lived in Anchorage for 8 years and am not a big gambler. So, I didn't participate while I lived in state, but prediction is always a fun and interesting challenge so I figured I'd finally give it a try.

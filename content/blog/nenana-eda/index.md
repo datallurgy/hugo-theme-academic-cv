@@ -23,6 +23,9 @@ image:
   filename: ./img/tripod.jpeg
   caption: 'The tripod on the Tanana River.'
   focal_point: Smart
+
+content_meta:
+  trending: true
 ---
 ### National Snow and Ice Data Center
 
