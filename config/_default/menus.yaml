@@ -5,13 +5,13 @@
 
 main:
   - name: Bio
-    url: /
+    url: /#bio
     weight: 10
   #- name: Skills
   #  url: /#skills
   #  weight: 20
   - name: Experience
-    url: /#experience
+    url: /experience/
     weight: 30
   - name: Projects
     url: /#projects
@@ -25,6 +25,21 @@ main:
   - name: Publications
     url: /#publications
     weight: 70
-  - name: Blog
-    url: /blog/
+  - name: Resources
+    url: /blog/resources
     weight: 80
+  - name: Services
+    url: /services/
+    weight: 90
+
+  #- name: Others
+  #  url: "/#"
+  #  weight: 80
+  #  pre: true
+  #  children:
+  #    - name: Resources
+  #      url: /blog/resources
+  #      weight: 10
+  #    - name: Services
+  #      url: /services/
+  #      weight: 20

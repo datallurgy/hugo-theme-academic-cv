@@ -29,7 +29,7 @@ tags:
 - Machine Learning
 - Artificial Intelligence
 
-featured: false
+featured: true
 
 image:
   filename: featured.jpg

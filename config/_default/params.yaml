@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Allyson Stoll"
+    name: "Datallurgy"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "Personal CV website for Allyson Stoll."
+    description: "Allyson Stoll is a leader in advanced analytics, machine learning and artificial intelligence in metallurgy and mineral processing."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       #twitter: "MakeOwnable"              # Twitter/X handle for Twitter Cards (without @)
@@ -60,7 +60,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "geometric" # modern | academic | editorial | geometric | humanist | developer | system
+    pack: "modern" # modern | academic | editorial | geometric | humanist | developer | system
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
@@ -94,8 +94,8 @@ hugoblox:
     # Call-to-action button
     cta:
       enable: false
-      text: ""
-      url: ""
+      text: "Services"
+      url: "/services/"
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER

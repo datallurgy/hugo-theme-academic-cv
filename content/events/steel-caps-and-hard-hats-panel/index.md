@@ -20,7 +20,7 @@ authors:
 tags:
 - Future of Work
 
-featured: false
+featured: true
 
 image:
   filename: featured.jpg

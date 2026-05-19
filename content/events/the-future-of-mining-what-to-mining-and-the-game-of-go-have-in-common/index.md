@@ -23,7 +23,7 @@ tags:
 - Machine Teaching
 - Reinforcement Learning
 
-featured: false
+featured: true
 
 image:
   filename: featured
